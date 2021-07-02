@@ -6,6 +6,7 @@ Ucs.exploration
 また、どのようなジャンルや価格帯の商品があるのかを掲載することで顧客のミスマッチを減らすことができます。
 古着屋さん自身がお店の情報を登録できるようなスタイルにすることでお店のPRにもつながりより一層古着業界を盛り上げられるかと思います。
 
+
 ### サイトテーマ
 古着業界の活性化！
 
@@ -20,15 +21,15 @@ Ucs.exploration
 
 ### 主な利用シーン
 ・古着巡りをする際に参考にすることができる。
-・お店のイベントやPRを宣伝したい時
+・お店の紹介、イベント等を宣伝したい時
 ・自分好みの系統があるお店を一店舗ずつ探す手間がなくなり効率よく買い物ができる。
 
 
 ## 設計書
-<...>
+完成次第追加します。
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1Fl06jZF_jeP_TYnchv-CJPc_mUyvyvvmZOE4ohJto0E/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
