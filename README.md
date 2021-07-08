@@ -29,10 +29,10 @@
 自分好みの系統があるお店を一店舗ずつ探す手間がなくなり効率の良い買い物ができる。
 
 
-設計書
+#### 設計書
 完成次第追加します。
 
-チャレンジ要素一覧
+#### チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1Fl06jZF_jeP_TYnchv-CJPc_mUyvyvvmZOE4ohJto0E/edit?usp=sharing
 
 開発環境
